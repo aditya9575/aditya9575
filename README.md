@@ -12,8 +12,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aditya9575&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya9575&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+**🏆 Always maintaining an A+ rank in performance and contributions!**
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aditya9575&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
+
 
 ### ✍️ Quote Of The Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
